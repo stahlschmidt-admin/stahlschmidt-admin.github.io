@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /page_0511.html
+Sitemap: http://www.stahlschmidt-inc.com/sitemap.xml
